@@ -1,6 +1,6 @@
 ---
 title: "final project"
-author: 'Loka Adarsh Dronamraju, Veera Venkata Satya Vrath Juvvadi, Nikhil Perikala '
+author: 'Veera Venkata Satya Vrath Juvvadi'
 date: "2023-11-27"
 output:
   html_document: default
